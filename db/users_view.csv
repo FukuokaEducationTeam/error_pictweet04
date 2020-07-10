@@ -1,0 +1,2 @@
+"id","email","encrypted_password","reset_password_token","reset_password_sent_at","remember_created_at","created_at","updated_at","nickname"
+1,"a12345@a12345.com","$2a$11$GPbugCoBn4wMA.BzmzolH.ti9UTv3tFGEBEGvO9qZRRjvrG9dDvWW",,,,"2020-06-07 07:47:53.622896","2020-06-07 07:47:53.622896","fuga"
